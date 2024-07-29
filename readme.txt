@@ -67,7 +67,7 @@ No. Plugin requires WPeMatico Free Version installed and activated.
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.0 =
 * First release
 
 == Upgrade Notice ==
